@@ -25,3 +25,8 @@ Change color of backgroud to desired color. Purple in this case
 Add text if desired.
 
 ![kjv only text](./images/github%20profile%20pic%20cross%20with%20KVJONLY.png)
+
+## Step 5.
+Acknowledge Christ.
+
+`Rev 22:13 I am Alpha and Omega, the beginning and the end, the first and the last.`
